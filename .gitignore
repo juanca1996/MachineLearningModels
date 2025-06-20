@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pip
+pip-log.txt
+
+# OneDrive temp files
+~$*
+
+# Data files (optional, if you generate any)
+*.csv
+*.tsv
+*.h5
+*.sqlite3
