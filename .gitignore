@@ -36,3 +36,4 @@ pip-log.txt
 *.tsv
 *.h5
 *.sqlite3
+*.dot
